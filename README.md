@@ -1,30 +1,31 @@
-# LeetCode Solutions
+# Competitive Programming Solutions
 
-Welcome to my repository of LeetCode solutions implemented in both Python and Java. Here, you will find solutions to various LeetCode problems that I have solved. Each problem has its own directory containing the solution files.
+Welcome to my repository of solutions from CSES, Codeforces, and LeetCode. Each problem has its own directory containing the solution file.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Languages Used](#languages-used)
-- [Directory Structure](#directory-structure)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [Contact](#contact)
+- [Competitive Programming Solutions](#competitive-programming-solutions)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Languages Used](#languages-used)
+  - [Directory Structure](#directory-structure)
+  - [How to Use](#how-to-use)
+  - [Contributing](#contributing)
+  - [Contact](#contact)
 
 ## Introduction
 
-This repository contains my solutions to various LeetCode problems. I have implemented these solutions in both Python and Java. Each solution is placed in its respective folder.
+This repository contains my solutions to problems from CSES, Codeforces, and LeetCode. Each solution is placed in its respective folder.
 
 ## Languages Used
 
 - Python
-- Java
 
 ## Directory Structure
 
+- Each platform has its own top-level directory (CSES, Codeforces, LeetCode).
 - Each problem has its own directory named after the problem.
 - The `Solution.py` file contains the Python solution.
-- The `Solution.java` file contains the Java solution.
 
 ## How to Use
 
